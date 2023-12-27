@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CampusLink</string>
+    <string name="login_button_text">Login</string>
+    <string name="register_button_text">Register</string>
+    <string name="logo_company_text">Company Logo</string>
+    <string name="company_name_text">CampusLink</string>
+    <string name="Email_text">Email</string>
+    <string name="name_text">Email</string>
+    <string name="alreadyhaveanaccount_text">Already have an account?</string>
+    <string name="content_text_description1">Email address input field</string>
+    <string name="hint_text">Enter your password</string>
+    <string name="content_text_description2">password input field</string>
+    <string name="content_text_description3">write your email</string>
+    <string name="password_text">Password</string>
+    <string name="hint_text_entermessage">Enter Message</string>
+</resources>
+
